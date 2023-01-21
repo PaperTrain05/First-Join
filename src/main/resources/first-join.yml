@@ -1,0 +1,9 @@
+enabled: true
+feature:
+  messages:
+    first-join: "§cCiao {player} sei {unique-number}!"
+    personal-join-message:
+      - "§cCiao {player}"
+      - ""
+      - ""
+      - ""

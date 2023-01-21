@@ -1,0 +1,5 @@
+name: "firstjoin" #The name of your expansion. MUST BE UNIQUE AMONG OTHER EXPANSIONS.
+description: 'first join message' #The description of your expansion
+main: "io.paper.firstjoin.Main" #This is the class that extends FactionsKoreExpansion
+load-priority: 115 #The load priority of the expansion. Higher number = Higher load priority.
+verify: false
